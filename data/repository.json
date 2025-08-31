@@ -363,61 +363,61 @@
     {
       "name": "Brian Chesky",
       "strategic_philosophy": {
-        "core_ideology": "TBD - Brian Chesky core ideology",
-        "market_positioning": "TBD - market positioning",
-        "innovation_engine": "TBD - innovation engine",
-        "competitive_stance": "TBD - competitive stance",
-        "risk_profile": "TBD - risk profile"
+        "core_ideology": "Design a world where anyone can belong anywhere through trust and hospitality.",
+        "market_positioning": "Two-sided marketplace for unique stays and experiences; design and brand as moat",
+        "innovation_engine": "Design-first product culture; rapid experiments; host ecosystem programs",
+        "competitive_stance": "Differentiate on community, trust, and unique supply versus hotels",
+        "risk_profile": "Bold adaptive pivots with staged rollouts; preserve trust and safety"
       },
       "leadership": {
-        "hiring_philosophy": "TBD - hiring philosophy",
-        "cultural_architecture": "TBD - culture",
-        "motivation_incentives": "TBD - motivation",
-        "communication_style": "TBD - communication",
-        "talent_management": "TBD - talent"
+        "hiring_philosophy": "Hire builders with taste, empathy, and mission fit",
+        "cultural_architecture": "Design-driven, detail-obsessed, hospitality mindset; founders’ mentality",
+        "motivation_incentives": "Mission impact, craft recognition, equity upside",
+        "communication_style": "Narrative memos; brand storytelling; rigorous design reviews",
+        "talent_management": "Grow multi-disciplinary product leaders; elevate creators/hosts"
       },
       "operational_cadence": {
-        "meeting_culture": "TBD - meetings",
-        "decision_making_process": "TBD - decisions",
-        "key_metrics": "TBD - metrics",
-        "focus_prioritization": "TBD - focus",
-        "accountability_framework": "TBD - accountability"
+        "meeting_culture": "Weekly design/product reviews; crits; lightweight status",
+        "decision_making_process": "Founder taste with data as input; customer-backed",
+        "key_metrics": "Nights booked, repeat rate, host supply quality, NPS, take rate",
+        "focus_prioritization": "Quality over breadth; reduce complexity; polish core",
+        "accountability_framework": "DRIs; pre-flight/launch checklists; incident reviews"
       },
       "personal_ethos": {
-        "core_principles": "TBD - principles",
-        "work_ethic": "TBD - work ethic",
-        "learning_adaptability": "TBD - learning",
-        "resilience_mechanism": "TBD - resilience"
+        "core_principles": "Belonging, trust, simplicity, hospitality",
+        "work_ethic": "Intense craft focus; hands-on with product and design",
+        "learning_adaptability": "Customer research; host feedback; travel immersion",
+        "resilience_mechanism": "Reframe crises into simplification and brand strengthening (e.g., 2020 reset)"
       }
     },
     {
       "name": "Patrick Collison",
       "strategic_philosophy": {
-        "core_ideology": "TBD - Patrick Collison core ideology",
-        "market_positioning": "TBD - market positioning",
-        "innovation_engine": "TBD - innovation engine",
-        "competitive_stance": "TBD - competitive stance",
-        "risk_profile": "TBD - risk profile"
+        "core_ideology": "Increase the GDP of the internet through reliable, global financial infrastructure.",
+        "market_positioning": "Developer-first payments and fintech platform; compliance and coverage as moat",
+        "innovation_engine": "API-first modular platform; disciplined R&D; selective acquisitions",
+        "competitive_stance": "Compete on developer experience, reliability, and breadth of primitives",
+        "risk_profile": "Long-term, regulated bets with staged country rollout and risk controls"
       },
       "leadership": {
-        "hiring_philosophy": "TBD - hiring philosophy",
-        "cultural_architecture": "TBD - culture",
-        "motivation_incentives": "TBD - motivation",
-        "communication_style": "TBD - communication",
-        "talent_management": "TBD - talent"
+        "hiring_philosophy": "Hire high-agency, fast learners with strong writing and curiosity",
+        "cultural_architecture": "Writing-heavy, analytical, high standards; operational excellence",
+        "motivation_incentives": "Mission, scope of impact, autonomy; meaningful equity",
+        "communication_style": "Long-form docs, RFCs, dashboards; clear Friday updates",
+        "talent_management": "Stretch roles; internal mobility; strong mentorship and feedback"
       },
       "operational_cadence": {
-        "meeting_culture": "TBD - meetings",
-        "decision_making_process": "TBD - decisions",
-        "key_metrics": "TBD - metrics",
-        "focus_prioritization": "TBD - focus",
-        "accountability_framework": "TBD - accountability"
+        "meeting_culture": "Few, purposeful meetings; docs-first; weekly metrics reviews",
+        "decision_making_process": "Write the decision; reversible vs. irreversible; data plus judgment",
+        "key_metrics": "TPV, reliability (four nines), activation, churn, country coverage",
+        "focus_prioritization": "Focus on platform primitives; compound into adjacent products",
+        "accountability_framework": "DRIs; service ownership; rigorous postmortems"
       },
       "personal_ethos": {
-        "core_principles": "TBD - principles",
-        "work_ethic": "TBD - work ethic",
-        "learning_adaptability": "TBD - learning",
-        "resilience_mechanism": "TBD - resilience"
+        "core_principles": "Pragmatism, ambition, craftsmanship, compounding",
+        "work_ethic": "Sustainable intensity; curiosity-driven effort",
+        "learning_adaptability": "Read deeply; customer interviews; study tech/finance history",
+        "resilience_mechanism": "Treat setbacks as debugging; iterate and keep shipping"
       }
     },
     {
@@ -453,121 +453,121 @@
     {
       "name": "Daniel Ek",
       "strategic_philosophy": {
-        "core_ideology": "TBD - Daniel Ek core ideology",
-        "market_positioning": "TBD - market positioning",
-        "innovation_engine": "TBD - innovation engine",
-        "competitive_stance": "TBD - competitive stance",
-        "risk_profile": "TBD - risk profile"
+        "core_ideology": "Unlock human creativity by enabling a million creators to live off their art.",
+        "market_positioning": "Freemium audio platform; personalization and creator tools as differentiation",
+        "innovation_engine": "ML-driven personalization; experimentation; acquisitions (podcasts, studios)",
+        "competitive_stance": "Compete on discovery, UX, and creator ecosystem alignment",
+        "risk_profile": "Portfolio bets with prudent financial discipline; rights and market risks managed"
       },
       "leadership": {
-        "hiring_philosophy": "TBD - hiring philosophy",
-        "cultural_architecture": "TBD - culture",
-        "motivation_incentives": "TBD - motivation",
-        "communication_style": "TBD - communication",
-        "talent_management": "TBD - talent"
+        "hiring_philosophy": "Hire builders with product sense, data rigor, and music passion",
+        "cultural_architecture": "Squad model; autonomy with alignment; mission-driven",
+        "motivation_incentives": "Mission impact; creator value; equity and ownership",
+        "communication_style": "Candid memos; all-hands; transparent data dashboards",
+        "talent_management": "Grow squad leaders; rotate technical and product leadership"
       },
       "operational_cadence": {
-        "meeting_culture": "TBD - meetings",
-        "decision_making_process": "TBD - decisions",
-        "key_metrics": "TBD - metrics",
-        "focus_prioritization": "TBD - focus",
-        "accountability_framework": "TBD - accountability"
+        "meeting_culture": "Lightweight squad rituals; demos; minimal standing meetings",
+        "decision_making_process": "Data-informed with product vision; test-and-learn cadence",
+        "key_metrics": "MAU, retention, hours listened, LTV/CAC, creator payouts",
+        "focus_prioritization": "Personalization and creator tools first; avoid unfocused expansions",
+        "accountability_framework": "Squad OKRs; postmortems; clear ownership"
       },
       "personal_ethos": {
-        "core_principles": "TBD - principles",
-        "work_ethic": "TBD - work ethic",
-        "learning_adaptability": "TBD - learning",
-        "resilience_mechanism": "TBD - resilience"
+        "core_principles": "User centricity, craft, long-term creator alignment",
+        "work_ethic": "Consistent cadence; deep product dives",
+        "learning_adaptability": "Experiments; creator/label feedback; industry study",
+        "resilience_mechanism": "Pivot formats, renegotiate models, iterate to fit market"
       }
     },
     {
       "name": "Stewart Butterfield",
       "strategic_philosophy": {
-        "core_ideology": "TBD - Stewart Butterfield core ideology",
-        "market_positioning": "TBD - market positioning",
-        "innovation_engine": "TBD - innovation engine",
-        "competitive_stance": "TBD - competitive stance",
-        "risk_profile": "TBD - risk profile"
+        "core_ideology": "Make work simpler, more pleasant, and more productive.",
+        "market_positioning": "Enterprise communication hub and platform; integrations as network effect",
+        "innovation_engine": "User-led iteration; polished UX; thriving platform/app ecosystem",
+        "competitive_stance": "Compete on UX, integration breadth, and bottom-up adoption",
+        "risk_profile": "Product-led bets; careful enterprise scaling; progressive hardening"
       },
       "leadership": {
-        "hiring_philosophy": "TBD - hiring philosophy",
-        "cultural_architecture": "TBD - culture",
-        "motivation_incentives": "TBD - motivation",
-        "communication_style": "TBD - communication",
-        "talent_management": "TBD - talent"
+        "hiring_philosophy": "Hire empathetic product thinkers; strong writers; craft-focused",
+        "cultural_architecture": "Human, inclusive, writing-first; customer empathy and clarity",
+        "motivation_incentives": "Impact, autonomy, craftsmanship; visible recognition",
+        "communication_style": "Writing-first updates; transparent release notes; customer narrative",
+        "talent_management": "Grow strong PM/EM tracks; support IC excellence"
       },
       "operational_cadence": {
-        "meeting_culture": "TBD - meetings",
-        "decision_making_process": "TBD - decisions",
-        "key_metrics": "TBD - metrics",
-        "focus_prioritization": "TBD - focus",
-        "accountability_framework": "TBD - accountability"
+        "meeting_culture": "Async-first; minimal sync; weekly product/design reviews",
+        "decision_making_process": "Write the decision; customer evidence; design taste with data",
+        "key_metrics": "DAU/MAU, messages sent, retention, expansion (NDR)",
+        "focus_prioritization": "Core messaging and platform health; resist bloat",
+        "accountability_framework": "DRIs; incident reviews; service ownership"
       },
       "personal_ethos": {
-        "core_principles": "TBD - principles",
-        "work_ethic": "TBD - work ethic",
-        "learning_adaptability": "TBD - learning",
-        "resilience_mechanism": "TBD - resilience"
+        "core_principles": "Empathy, simplicity, craftsmanship, transparency",
+        "work_ethic": "Sustainable, thoughtful pace; avoid heroics",
+        "learning_adaptability": "Customer support signals; usage analytics; dogfooding",
+        "resilience_mechanism": "Course-correct quickly; reposition/pivot as needed"
       }
     },
     {
       "name": "Michael Dell",
       "strategic_philosophy": {
-        "core_ideology": "TBD - Michael Dell core ideology",
-        "market_positioning": "TBD - market positioning",
-        "innovation_engine": "TBD - innovation engine",
-        "competitive_stance": "TBD - competitive stance",
-        "risk_profile": "TBD - risk profile"
+        "core_ideology": "Create technology that drives human progress at scale with operational excellence.",
+        "market_positioning": "End-to-end infrastructure and PCs; cost, service, and channel breadth as moat",
+        "innovation_engine": "Supply chain optimization; services shift; transformative M&A (EMC)",
+        "competitive_stance": "Compete on cost, service, breadth; deep customer and channel relationships",
+        "risk_profile": "Large but modeled acquisitions; deleveraging discipline; staged integration"
       },
       "leadership": {
-        "hiring_philosophy": "TBD - hiring philosophy",
-        "cultural_architecture": "TBD - culture",
-        "motivation_incentives": "TBD - motivation",
-        "communication_style": "TBD - communication",
-        "talent_management": "TBD - talent"
+        "hiring_philosophy": "Hire disciplined operators and high-performing sellers",
+        "cultural_architecture": "Customer-first, execution-oriented, accountable",
+        "motivation_incentives": "Ownership mindset; performance-based compensation",
+        "communication_style": "Direct, metrics-driven operational reviews and pipeline calls",
+        "talent_management": "Promote operators; develop sales leadership and GM talent"
       },
       "operational_cadence": {
-        "meeting_culture": "TBD - meetings",
-        "decision_making_process": "TBD - decisions",
-        "key_metrics": "TBD - metrics",
-        "focus_prioritization": "TBD - focus",
-        "accountability_framework": "TBD - accountability"
+        "meeting_culture": "Cadenced ops reviews; pipeline and forecast discipline",
+        "decision_making_process": "Data-driven decisions with P&L owners accountable",
+        "key_metrics": "Revenue, margin, cash conversion cycle, NPS",
+        "focus_prioritization": "Core plus adjacent services; avoid shiny objects",
+        "accountability_framework": "Scorecards; WBRs; owner on every initiative"
       },
       "personal_ethos": {
-        "core_principles": "TBD - principles",
-        "work_ethic": "TBD - work ethic",
-        "learning_adaptability": "TBD - learning",
-        "resilience_mechanism": "TBD - resilience"
+        "core_principles": "Customer obsession, execution, frugality",
+        "work_ethic": "High intensity; hands-on operational detail",
+        "learning_adaptability": "Customer visits; competitor benchmarks; supplier learning",
+        "resilience_mechanism": "Buyout and EMC integration resilience; deleverage and adjust portfolio"
       }
     },
     {
       "name": "Meg Whitman",
       "strategic_philosophy": {
-        "core_ideology": "TBD - Meg Whitman core ideology",
-        "market_positioning": "TBD - market positioning",
-        "innovation_engine": "TBD - innovation engine",
-        "competitive_stance": "TBD - competitive stance",
-        "risk_profile": "TBD - risk profile"
+        "core_ideology": "Build durable platforms by listening to customers and executing with discipline.",
+        "market_positioning": "Marketplace and enterprise platforms; brand trust and scale as moats",
+        "innovation_engine": "Customer-informed iteration; operational turnaround; selective M&A",
+        "competitive_stance": "Compete on service quality, cost discipline, and user trust",
+        "risk_profile": "Moderate, staged bets with clear ROI; protect franchise"
       },
       "leadership": {
-        "hiring_philosophy": "TBD - hiring philosophy",
-        "cultural_architecture": "TBD - culture",
-        "motivation_incentives": "TBD - motivation",
-        "communication_style": "TBD - communication",
-        "talent_management": "TBD - talent"
+        "hiring_philosophy": "Hire pragmatic operators with customer focus and bias to action",
+        "cultural_architecture": "Performance culture; accountability; customer-first mindset",
+        "motivation_incentives": "Mission impact, recognition, upside for turnaround wins",
+        "communication_style": "Direct, clear updates; customer and employee town halls",
+        "talent_management": "Promote capable operators; retain top sellers and product leaders"
       },
       "operational_cadence": {
-        "meeting_culture": "TBD - meetings",
-        "decision_making_process": "TBD - decisions",
-        "key_metrics": "TBD - metrics",
-        "focus_prioritization": "TBD - focus",
-        "accountability_framework": "TBD - accountability"
+        "meeting_culture": "Structured ops reviews; tempo increases during turnarounds",
+        "decision_making_process": "Data-informed with decision owner; pragmatic trade-offs",
+        "key_metrics": "Customer NPS, margin, free cash flow, inventory turns",
+        "focus_prioritization": "Focus on core and profitable adjacencies; cut distractions",
+        "accountability_framework": "Scorecards; WBRs; named owners; turnaround playbooks"
       },
       "personal_ethos": {
-        "core_principles": "TBD - principles",
-        "work_ethic": "TBD - work ethic",
-        "learning_adaptability": "TBD - learning",
-        "resilience_mechanism": "TBD - resilience"
+        "core_principles": "Customer focus, integrity, discipline",
+        "work_ethic": "Consistent, high-effort cadence; hands-on where needed",
+        "learning_adaptability": "Customer councils; frontline listening; benchmark peers",
+        "resilience_mechanism": "Stabilize first; simplify; communicate; then invest in growth"
       }
     },
     {
@@ -603,121 +603,121 @@
     {
       "name": "Safra Catz",
       "strategic_philosophy": {
-        "core_ideology": "TBD - Safra Catz core ideology",
-        "market_positioning": "TBD - market positioning",
-        "innovation_engine": "TBD - innovation engine",
-        "competitive_stance": "TBD - competitive stance",
-        "risk_profile": "TBD - risk profile"
+        "core_ideology": "Compound shareholder value through disciplined operations and rigorous M&A.",
+        "market_positioning": "Enterprise software and cloud; integrated stack and support as moat",
+        "innovation_engine": "Integrate acquisitions with cost and revenue synergies; finance-driven ops",
+        "competitive_stance": "Compete on TCO, integration depth, and support guarantees",
+        "risk_profile": "Disciplined, model-driven bets; accretive M&A and cost control"
       },
       "leadership": {
-        "hiring_philosophy": "TBD - hiring philosophy",
-        "cultural_architecture": "TBD - culture",
-        "motivation_incentives": "TBD - motivation",
-        "communication_style": "TBD - communication",
-        "talent_management": "TBD - talent"
+        "hiring_philosophy": "Hire high-output operators and finance-athletes",
+        "cultural_architecture": "Execution-first, metrics-driven, low-politics",
+        "motivation_incentives": "Performance pay, equity, results visibility",
+        "communication_style": "Direct, precise, numbers-first communications",
+        "talent_management": "Elevate reliable operators; retain top technical sellers"
       },
       "operational_cadence": {
-        "meeting_culture": "TBD - meetings",
-        "decision_making_process": "TBD - decisions",
-        "key_metrics": "TBD - metrics",
-        "focus_prioritization": "TBD - focus",
-        "accountability_framework": "TBD - accountability"
+        "meeting_culture": "Cadenced ops and forecast calls; tight close processes",
+        "decision_making_process": "Data-first, P&L ownership, clear trade-offs",
+        "key_metrics": "Revenue, margin, cash conversion, renewal rate",
+        "focus_prioritization": "Prioritize high-margin and sticky offerings; prune low return",
+        "accountability_framework": "Owner assignment, forecast rigor, postmortems"
       },
       "personal_ethos": {
-        "core_principles": "TBD - principles",
-        "work_ethic": "TBD - work ethic",
-        "learning_adaptability": "TBD - learning",
-        "resilience_mechanism": "TBD - resilience"
+        "core_principles": "Discipline, integrity, accountability",
+        "work_ethic": "Sustained, focused intensity",
+        "learning_adaptability": "Learn from deals, customers, and patterns in data",
+        "resilience_mechanism": "Absorb shocks via liquidity, discipline, and optionality"
       }
     },
     {
       "name": "Larry Ellison",
       "strategic_philosophy": {
-        "core_ideology": "TBD - Larry Ellison core ideology",
-        "market_positioning": "TBD - market positioning",
-        "innovation_engine": "TBD - innovation engine",
-        "competitive_stance": "TBD - competitive stance",
-        "risk_profile": "TBD - risk profile"
+        "core_ideology": "Win by building the most reliable, integrated enterprise data platform.",
+        "market_positioning": "Database and enterprise apps with integrated cloud; performance and security moats",
+        "innovation_engine": "Relentless engineering on reliability; acquisitive to fill platform gaps",
+        "competitive_stance": "Aggressive; compete on benchmarks, integration, and switching costs",
+        "risk_profile": "Bold platform bets with long horizons; tolerate controversy"
       },
       "leadership": {
-        "hiring_philosophy": "TBD - hiring philosophy",
-        "cultural_architecture": "TBD - culture",
-        "motivation_incentives": "TBD - motivation",
-        "communication_style": "TBD - communication",
-        "talent_management": "TBD - talent"
+        "hiring_philosophy": "Hire elite engineers and competitive sellers",
+        "cultural_architecture": "High standards; adversarial rigor; product-led pride",
+        "motivation_incentives": "Big outcomes; status via results; equity",
+        "communication_style": "Direct, provocative keynotes; technical demos",
+        "talent_management": "Grow technical leaders and field generals"
       },
       "operational_cadence": {
-        "meeting_culture": "TBD - meetings",
-        "decision_making_process": "TBD - decisions",
-        "key_metrics": "TBD - metrics",
-        "focus_prioritization": "TBD - focus",
-        "accountability_framework": "TBD - accountability"
+        "meeting_culture": "Product and benchmark reviews; competitive debriefs",
+        "decision_making_process": "Founder taste; technical data; contrarian bets",
+        "key_metrics": "DB performance, SLAs, renewals, benchmark wins",
+        "focus_prioritization": "Focus on core database/cloud platform; cut weak lines",
+        "accountability_framework": "DRIs; public commitments; hard postmortems"
       },
       "personal_ethos": {
-        "core_principles": "TBD - principles",
-        "work_ethic": "TBD - work ethic",
-        "learning_adaptability": "TBD - learning",
-        "resilience_mechanism": "TBD - resilience"
+        "core_principles": "Excellence, competitiveness, customer success",
+        "work_ethic": "Intense, durable work capacity",
+        "learning_adaptability": "Hands-on with customers, labs, and rivals’ claims",
+        "resilience_mechanism": "Absorb hits; double down on technical strengths"
       }
     },
     {
       "name": "Ginni Rometty",
       "strategic_philosophy": {
-        "core_ideology": "TBD - Ginni Rometty core ideology",
-        "market_positioning": "TBD - market positioning",
-        "innovation_engine": "TBD - innovation engine",
-        "competitive_stance": "TBD - competitive_stance",
-        "risk_profile": "TBD - risk profile"
+        "core_ideology": "Steer large-scale reinvention through client value, skills, and responsible tech.",
+        "market_positioning": "Hybrid cloud and industry solutions; services and relationships as moat",
+        "innovation_engine": "Reskill workforce; strategic acquisitions (Red Hat preparation); client co-creation",
+        "competitive_stance": "Compete on trust, industry expertise, and long-term value",
+        "risk_profile": "Measured bets with de-risking; portfolio pruning"
       },
       "leadership": {
-        "hiring_philosophy": "TBD - hiring philosophy",
-        "cultural_architecture": "TBD - culture",
-        "motivation_incentives": "TBD - motivation",
-        "communication_style": "TBD - communication",
-        "talent_management": "TBD - talent"
+        "hiring_philosophy": "Hire for consultative depth and learning agility",
+        "cultural_architecture": "Client-first, inclusive, continuous learning",
+        "motivation_incentives": "Recognition, career paths, purpose alignment",
+        "communication_style": "Transparent, client-centered communications",
+        "talent_management": "Elevate consultative leaders; reskill at scale"
       },
       "operational_cadence": {
-        "meeting_culture": "TBD - meetings",
-        "decision_making_process": "TBD - decisions",
-        "key_metrics": "TBD - metrics",
-        "focus_prioritization": "TBD - focus",
-        "accountability_framework": "TBD - accountability"
+        "meeting_culture": "Structured client reviews; portfolio councils",
+        "decision_making_process": "Data-informed with stakeholder input; principle guardrails",
+        "key_metrics": "Client value, backlog quality, skills index",
+        "focus_prioritization": "Focus on hybrid cloud/services; exit commoditized areas",
+        "accountability_framework": "Named owners; skills and outcomes tracked"
       },
       "personal_ethos": {
-        "core_principles": "TBD - principles",
-        "work_ethic": "TBD - work ethic",
-        "learning_adaptability": "TBD - learning",
-        "resilience_mechanism": "TBD - resilience"
+        "core_principles": "Trust, responsibility, continuous learning",
+        "work_ethic": "Steady, sustainable effort",
+        "learning_adaptability": "Learning platforms; client feedback loops",
+        "resilience_mechanism": "Face hard truths; prune; invest in future skills"
       }
     },
     {
       "name": "Arvind Krishna",
       "strategic_philosophy": {
-        "core_ideology": "TBD - Arvind Krishna core ideology",
-        "market_positioning": "TBD - market positioning",
-        "innovation_engine": "TBD - innovation engine",
-        "competitive_stance": "TBD - competitive stance",
-        "risk_profile": "TBD - risk profile"
+        "core_ideology": "Be the platform for hybrid cloud and trusted AI for enterprises.",
+        "market_positioning": "Hybrid cloud (Red Hat OpenShift) and AI platform; open ecosystem as moat",
+        "innovation_engine": "Open-source leverage; targeted M&A; industry accelerators; research-to-product",
+        "competitive_stance": "Compete on openness, security, and enterprise integration",
+        "risk_profile": "Disciplined portfolio bets; exit low growth; invest in platform layers"
       },
       "leadership": {
-        "hiring_philosophy": "TBD - hiring philosophy",
-        "cultural_architecture": "TBD - culture",
-        "motivation_incentives": "TBD - motivation",
-        "communication_style": "TBD - communication",
-        "talent_management": "TBD - talent"
+        "hiring_philosophy": "Hire strong technologists and customer-centric PMs",
+        "cultural_architecture": "Engineering-led, client-focused, ethical AI culture",
+        "motivation_incentives": "Impact, growth paths, technical recognition",
+        "communication_style": "Straightforward, technical updates; client wins and roadmaps",
+        "talent_management": "Promote technical leaders; invest in skills academies"
       },
       "operational_cadence": {
-        "meeting_culture": "TBD - meetings",
-        "decision_making_process": "TBD - decisions",
-        "key_metrics": "TBD - metrics",
-        "focus_prioritization": "TBD - focus",
-        "accountability_framework": "TBD - accountability"
+        "meeting_culture": "Cadenced product/architecture and client cadence reviews",
+        "decision_making_process": "Data-driven with technical judgment; open governance",
+        "key_metrics": "ARR, cloud revenue mix, OpenShift adoption, AI attach",
+        "focus_prioritization": "Focus on hybrid cloud, data/AI; divest commoditized services",
+        "accountability_framework": "Service ownership; SLAs; post-incident learning"
       },
       "personal_ethos": {
-        "core_principles": "TBD - principles",
-        "work_ethic": "TBD - work ethic",
-        "learning_adaptability": "TBD - learning",
-        "resilience_mechanism": "TBD - resilience"
+        "core_principles": "Trust, openness, technical excellence",
+        "work_ethic": "Consistent technical cadence; hands-on",
+        "learning_adaptability": "Research insights; open-source ecosystems; customer councils",
+        "resilience_mechanism": "Adapt portfolio; double down on platform adoption"
       }
     },
     {
