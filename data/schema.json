@@ -1,0 +1,105 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "RepositoryData",
+  "type": "object",
+  "properties": {
+    "ceos": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "strategic_philosophy": {
+            "type": "object",
+            "properties": {
+              "core_ideology": { "type": "string" },
+              "market_positioning": { "type": "string" },
+              "innovation_engine": { "type": "string" },
+              "competitive_stance": { "type": "string" },
+              "risk_profile": { "type": "string" }
+            },
+            "required": [
+              "core_ideology",
+              "market_positioning",
+              "innovation_engine",
+              "competitive_stance",
+              "risk_profile"
+            ]
+          },
+          "leadership": {
+            "type": "object",
+            "properties": {
+              "hiring_philosophy": { "type": "string" },
+              "cultural_architecture": { "type": "string" },
+              "motivation_incentives": { "type": "string" },
+              "communication_style": { "type": "string" },
+              "talent_management": { "type": "string" }
+            },
+            "required": [
+              "hiring_philosophy",
+              "cultural_architecture",
+              "motivation_incentives",
+              "communication_style",
+              "talent_management"
+            ]
+          },
+          "operational_cadence": {
+            "type": "object",
+            "properties": {
+              "meeting_culture": { "type": "string" },
+              "decision_making_process": { "type": "string" },
+              "key_metrics": { "type": "string" },
+              "focus_prioritization": { "type": "string" },
+              "accountability_framework": { "type": "string" }
+            },
+            "required": [
+              "meeting_culture",
+              "decision_making_process",
+              "key_metrics",
+              "focus_prioritization",
+              "accountability_framework"
+            ]
+          },
+          "personal_ethos": {
+            "type": "object",
+            "properties": {
+              "core_principles": { "type": "string" },
+              "work_ethic": { "type": "string" },
+              "learning_adaptability": { "type": "string" },
+              "resilience_mechanism": { "type": "string" }
+            },
+            "required": [
+              "core_principles",
+              "work_ethic",
+              "learning_adaptability",
+              "resilience_mechanism"
+            ]
+          }
+        },
+        "required": [
+          "name",
+          "strategic_philosophy",
+          "leadership",
+          "operational_cadence",
+          "personal_ethos"
+        ]
+      }
+    },
+    "situations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "ceo": { "type": "string" },
+          "tags": { "type": "array", "items": { "type": "string" } },
+          "title": { "type": "string" },
+          "response": { "type": "string" }
+        },
+        "required": ["ceo", "tags", "title", "response"]
+      }
+    }
+  },
+  "required": ["ceos", "situations"]
+}
+
+

@@ -1,0 +1,129 @@
+{
+  "ceos": [
+    {
+      "name": "Steve Jobs",
+      "company": "Apple",
+      "industry": "Technology",
+      "strategic_philosophy": {
+        "core_ideology": "Build insanely great, integrated products that delight users.",
+        "market_positioning": "Premium, design-led, end-to-end consumer ecosystem",
+        "innovation_engine": "Secretive, cross-functional teams with rapid prototyping",
+        "competitive_stance": "Confrontational; differentiate through taste and integration",
+        "risk_profile": "Bold, bet-the-company on a few products"
+      },
+      "leadership_style": {
+        "hiring_philosophy": "A-players only; passion and intelligence over credentials",
+        "cultural_architecture": "High standards; end-to-end ownership; secrecy",
+        "motivation_incentives": "Mission-driven excellence; shipping craftsmanship",
+        "communication_style": "Keynotes; product reviews; blunt 1:1s",
+        "talent_management": "Extreme autonomy for stars; swift exits for underperformance"
+      },
+      "operational_cadence": {
+        "meeting_culture": "Small groups; debate; DRI for every outcome",
+        "decision_making_process": "Top-down product taste with data as input",
+        "key_metrics": "Customer delight, product quality, gross margins",
+        "focus_prioritization": "Ruthless focus; kill most projects",
+        "accountability_framework": "DRIs; live demos"
+      },
+      "personal_ethos": {
+        "core_principles": "Simplicity, taste, end-to-end experience",
+        "work_ethic": "Hands-on, intense product focus",
+        "learning_adaptability": "Observe users; iterate on prototypes",
+        "resilience_mechanism": "Reframe setbacks into product opportunities"
+      }
+    },
+    {
+      "name": "Jeff Bezos",
+      "company": "Amazon",
+      "industry": "Retail",
+      "strategic_philosophy": {
+        "core_ideology": "Obsess over customers and long-term value creation.",
+        "market_positioning": "Low-cost, high-convenience platform and cloud infrastructure",
+        "innovation_engine": "Working Backwards (PRFAQ), two-pizza teams, narrative memos",
+        "competitive_stance": "Relentless; compete on speed, selection, price",
+        "risk_profile": "Calculated big bets with option value"
+      },
+      "leadership_style": {
+        "hiring_philosophy": "Hire and develop the best; raise the bar",
+        "cultural_architecture": "Day 1 culture; frugality; high standards",
+        "motivation_incentives": "Ownership mindset; metrics-driven recognition",
+        "communication_style": "Narratives over slides; clear, concise writing",
+        "talent_management": "Rotate top talent; single-threaded leaders"
+      },
+      "operational_cadence": {
+        "meeting_culture": "Short, doc-based meetings; study-hall reading",
+        "decision_making_process": "Disagree and commit; decision velocity",
+        "key_metrics": "Free cash flow, selection, delivery speed, CSAT",
+        "focus_prioritization": "Build flywheels; cut low-ROI distractions",
+        "accountability_framework": "COE; single-thread ownership"
+      },
+      "personal_ethos": {
+        "core_principles": "Customer obsession, frugality, bias for action",
+        "work_ethic": "Intense but disciplined; sustainable cadence",
+        "learning_adaptability": "Read, write, measure; iterate from data",
+        "resilience_mechanism": "Learn from metrics; fix processes, not people"
+      }
+    },
+    {
+      "name": "Satya Nadella",
+      "company": "Microsoft",
+      "industry": "Technology",
+      "strategic_philosophy": {
+        "core_ideology": "Empower every person and organization to achieve more.",
+        "market_positioning": "Platform and productivity leader with cloud-first approach",
+        "innovation_engine": "AI-driven, open ecosystem with strategic acquisitions",
+        "competitive_stance": "Collaborative; compete on integration and enterprise value",
+        "risk_profile": "Balanced portfolio with clear growth vectors"
+      },
+      "leadership_style": {
+        "hiring_philosophy": "Growth mindset; diverse perspectives; learn-it-all culture",
+        "cultural_architecture": "Empathy, diversity, inclusion; customer-obsessed",
+        "motivation_incentives": "Mission impact; customer success; team collaboration",
+        "communication_style": "Authentic storytelling; listening tours; inclusive dialogue",
+        "talent_management": "Coaching culture; growth through feedback; diverse pathways"
+      },
+      "operational_cadence": {
+        "meeting_culture": "Focused discussions; inclusive decision-making; clear outcomes",
+        "decision_making_process": "Data-informed with customer empathy; aligned autonomy",
+        "key_metrics": "Customer success, usage growth, cloud transformation",
+        "focus_prioritization": "Strategic clarity; customer-led innovation",
+        "accountability_framework": "OKRs; transparency; shared outcomes"
+      },
+      "personal_ethos": {
+        "core_principles": "Empathy, learn-it-all mindset, create clarity",
+        "work_ethic": "Balanced intensity; sustainable excellence",
+        "learning_adaptability": "Continuous learning; diverse inputs; growth mindset",
+        "resilience_mechanism": "Reflect, learn, adapt; focus on impact not activity"
+      }
+    }
+  ],
+  "situations": [
+    {
+      "ceo": "Steve Jobs",
+      "title": "iPhone 4 Antenna Issue",
+      "tags": ["situation:product_launch_crisis", "situation:pr_crisis"],
+      "situation": "Users reported signal loss when holding the phone a certain way",
+      "response": "Called press conference, demonstrated issue affects all phones, offered free cases",
+      "principles": ["principle:control_narrative", "principle:minimal_concession"],
+      "outcome": "Neutralized PR crisis while avoiding recall"
+    },
+    {
+      "ceo": "Jeff Bezos",
+      "title": "AWS S3 Outage Response",
+      "tags": ["situation:service_outage", "situation:customer_impact"],
+      "situation": "Major AWS S3 outage affected thousands of customers and websites",
+      "response": "Transparent technical post-mortem, implemented new safeguards, improved monitoring",
+      "principles": ["principle:operational_excellence", "principle:customer_obsession"],
+      "outcome": "Restored trust through transparency and concrete improvements"
+    },
+    {
+      "ceo": "Satya Nadella",
+      "title": "GitHub Acquisition",
+      "tags": ["situation:strategic_acquisition", "situation:developer_community"],
+      "situation": "Opportunity to acquire GitHub, the leading developer platform",
+      "response": "Preserved GitHub's independence while integrating with Microsoft's developer tools",
+      "principles": ["principle:open_ecosystem", "principle:growth_mindset"],
+      "outcome": "Successfully integrated GitHub while growing its community and maintaining trust"
+    }
+  ]
+}

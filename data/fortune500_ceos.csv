@@ -1,0 +1,254 @@
+name,company,industry
+Douglas McMillon,Walmart,General Merchandisers
+Andrew Jassy,Amazon,Internet Services and Retailing
+Andrew Witty,UnitedHealth Group,Health Care: Insurance and Managed Care
+Timothy Cook,Apple,Computers, Office Equipment
+David Joyner,CVS Health,Health Care: Pharmacy and Other Services
+Warren Buffett,Berkshire Hathaway,Insurance: Property and Casualty (Stock)
+Sundar Pichai,Alphabet,Internet Services and Retailing
+Darren Woods,Exxon Mobil,Petroleum Refining
+Brian Tyler,McKesson,Wholesalers: Health Care
+Robert Mauch,Cencora,Wholesalers: Health Care
+James Dimon,JPMorgan Chase,Commercial Banks
+Ron Vachris,Costco Wholesale,General Merchandisers
+David Cordani,Cigna Group,Health Care: Pharmacy and Other Services
+Satya Nadella,Microsoft,Computer Software
+Jason Hollar,Cardinal Health,Wholesalers: Health Care
+Michael Wirth,Chevron,Petroleum Refining
+Brian Moynihan,Bank of America,Commercial Banks
+Mary Barra,General Motors,Motor Vehicles & Parts
+James Farley Jr.,Ford Motor,Motor Vehicles & Parts
+Gail Boudreaux,Elevance Health,Health Care: Insurance and Managed Care
+Jane Fraser,Citigroup,Commercial Banks
+Mark Zuckerberg,Meta Platforms,Internet Services and Retailing
+Sarah London,Centene,Health Care: Insurance and Managed Care
+Edward Decker,Home Depot,Specialty Retailers: Other
+Priscilla Almodovar,Fannie Mae,Diversified Financials
+Timothy Wentworth,Walgreens Boots Alliance,Food & Drug Stores
+Ronald Sargent,Kroger,Food & Drug Stores
+Mark Lashier,Phillips 66,Petroleum Refining
+Maryann Mannen,Marathon Petroleum,Petroleum Refining
+Hans Vestberg,Verizon,Telecommunications
+Jensen Huang,Nvidia,Semiconductors and Other Electronic Components
+David Solomon,Goldman Sachs Group,Commercial Banks
+Charles Scharf,Wells Fargo,Commercial Banks
+Lane Riggs,Valero Energy,Petroleum Refining
+Brian Roberts,Comcast,Telecommunications
+Jon Farney,State Farm Insurance,Insurance: Property and Casualty (Mutual)
+John Stankey,AT&T,Telecommunications
+Michael Hutchins,Freddie Mac,Diversified Financials
+James Rechtin,Humana,Health Care: Insurance and Managed Care
+Edward Pick,Morgan Stanley,Commercial Banks
+Brian Cornell,Target,General Merchandisers
+Philip Smith,StoneX Group,Diversified Financials
+Elon Musk,Tesla,Motor Vehicles & Parts
+Michael Dell,Dell Technologies,Computers, Office Equipment
+Ramon Laguarta,PepsiCo,Food Consumer Products
+Robert Iger,Walt Disney,Entertainment
+Carol Tomé,United Parcel Service,Mail, Package and Freight Delivery
+Joaquin Duato,Johnson & Johnson,Pharmaceuticals
+Rajesh Subramaniam,FedEx,Mail, Package and Freight Delivery
+Juan Luciano,Archer Daniels Midland,Food Production
+Jon Moeller,Procter & Gamble,Household and Personal Products
+Marvin Ellison,Lowe's,Specialty Retailers: Other
+Thomas Long,Energy Transfer,Pipelines
+Christopher Calio,RTX,Aerospace and Defense
+Susan Morris,Albertsons,Food and Drug Stores
+Kevin Hourican,Sysco,Wholesalers: Food and Grocery
+Susan Patricia Griffith,Progressive,Insurance: Property and Casualty (Stock)
+Stephen Squeri,American Express,Commercial Banks
+James Taiclet,Lockheed Martin,Aerospace and Defense
+Michel Khalaf,MetLife,Insurance: Life, Health (Stock)
+Samuel Hazen,HCA Healthcare,Health Care: Medical Facilities
+Andrew Sullivan,Prudential Financial,Insurance: Life, Health (Stock)
+Robert Ortberg,Boeing,Aerospace and Defense
+Joseph Creed,Caterpillar,Construction and Farm Machinery
+Robert Davis,Merck,Pharmaceuticals
+Thomas Wilson,Allstate,Insurance: Property and Casualty (Stock)
+Albert Bourla,Pfizer,Pharmaceuticals
+Arvind Krishna,International Business Machines (IBM),Information Technology Services
+Craig DeSanto,New York Life Insurance,Insurance: Life, Health (Mutual)
+Edward Bastian,Delta Air Lines,Airlines
+Kevin Murphy,Publix Super Markets,Food and Drug Stores
+Kirt Walker,Nationwide,Insurance: Property and Casualty (Mutual)
+Patrick Zammit,TD Synnex,Wholesalers: Electronics and Office Equipment
+Scott Kirby,United Airlines Holdings,Airlines
+Ryan Lance,ConocoPhillips,Mining, Crude-Oil Production
+Ernie Herrman,TJX,Specialty Retailers: Apparel
+Robert Michael,AbbVie,Pharmaceuticals
+James Teague,Enterprise Products Partners,Pipelines
+Christopher Winfrey,Charter Communications,Telecommunications
+George Holm,Performance Food Group,Wholesalers: Food and Grocery
+Robert Isom,American Airlines Group,Airlines
+Richard Fairbank,Capital One Financial,Commercial Banks
+Charles Robbins,Cisco Systems,Network and Other Communications Equipment
+Enrique Lores,HP,Computers, Office Equipment
+Donnie King,Tyson Foods,Food Production
+Patrick P. Gelsinger,Intel,Semiconductors and Other Electronic Components
+Safra Catz,Oracle,Computer Software
+Hock Tan,Broadcom,Semiconductors and Other Electronic Components
+John May,Deere,Construction and Farm Machinery
+Elliott Hill,Nike,Apparel
+Timothy Sweeney,Liberty Mutual Insurance Group,Insurance: Property and Casualty (Mutual)
+Wilfred Chiang,Plains GP Holdings,Pipelines
+Juan Andrade,USAA,Insurance: Property and Casualty (Stock)
+Christopher Boerner,Bristol-Myers Squibb,Pharmaceuticals
+Paul Bay,Ingram Micro,Wholesalers: Electronics and Office Equipment
+Phebe Novakovic,General Dynamics,Aerospace and Defense
+James Quincey,Coca-Cola,Beverages
+Thasunda Brown Duckett,TIAA,Insurance: Life, Health (Stock)
+Alan Schnitzer,Travelers,Insurance: Property and Casualty (Stock)
+David Ricks,Eli Lilly,Pharmaceuticals
+Dara Khosrowshahi,Uber Technologies,Internet Services and Retailing
+Roger Crandall,Massachusetts Mutual Life Insurance,Insurance: Life, Health (Mutual)
+James Fitterling,Dow,Chemicals
+Marc Casper,Thermo Fisher Scientific,Scientific, Photographic and Control Equipment
+Gunjan Kedia,U.S. Bancorp,Commercial Banks
+Michael Kasbar,World Kinect,Wholesalers: Diversified
+Robert Ford,Abbott Laboratories,Medical Products and Equipment
+Corie Barry,Best Buy,Specialty Retailers: Other
+Timothy Gerend,Northwestern Mutual,Insurance: Life, Health (Mutual)
+Kathy Warden,Northrop Grumman,Aerospace and Defense
+Joseph Zubretsky,Molina Healthcare,Health Care: Insurance and Managed Care
+Todd Vasos,Dollar General,General Merchandisers
+Robin Vince,Bank of New York Mellon,Commercial Banks
+David Zaslav,Warner Bros. Discovery,Entertainment
+Jay Debertin,CHS,Food Production
+Ted Sarandos,Netflix,Entertainment
+Cristiano Amon,Qualcomm,Semiconductors and Other Electronic Components
+Lawrence Culp Jr.,General Electric,Industrial Machinery
+Vimal Kapur,Honeywell International,Electronics, Electrical Equipment
+Marc Benioff,Salesforce,Computer Software
+Jacek Olczak,Philip Morris International,Tobacco
+David Flitman,US Foods Holding,Wholesalers: Food and Grocery
+Paul Romanowski,D.R. Horton,Homebuilders
+Bryan DeBoer,Lithia Motors,Automotive Retailing, Services
+Dirk Van de Put,Mondelez International,Food Consumer Products
+Brian Niccol,Starbucks,Food Services
+Ryan McInerney,Visa,Financial Data Services
+Robert Sulentic,CBRE Group,Real Estate
+Jonathan Jaffe,Lennar,Homebuilders
+Scott Strazik,GE Vernova,Industrial Machinery
+William Demchak,PNC Financial Services Group,Commercial Banks
+Jennifer Rumsey,Cummins,Construction and Farm Machinery
+Preston Feight,Paccar,Motor Vehicles & Parts
+Robert Bradway,Amgen,Pharmaceuticals
+Matthew Lucey,PBF Energy,Petroleum Refining
+Patrick Geraghty,GuideWell Mutual Holding,Health Care: Insurance and Managed Care
+Alex Chriss,PayPal Holdings,Financial Data Services
+Sandy Douglas,United Natural Foods,Wholesalers: Food and Grocery
+Michael Creedon Jr.,Dollar Tree,Specialty Retailers: Other
+Leon Topalian,Nucor,Metals
+Roger Penske,Penske Automotive Group,Automotive Retailing, Services
+Bom Kim,Coupang,Internet Services and Retailing
+Antonio Neri,Hewlett Packard Enterprise,Information Technology Services
+Harry Sideris,Duke Energy,Utilities: Gas and Electric
+Joseph Bae,KKR,Securities
+Kevin Murphy,Ferguson,Wholesalers: Diversified
+Brian Robbins,Paramount Global,Entertainment
+Michael Dastoor,Jabil,Semiconductors and Other Electronic Components
+Daniel O'Day,Gilead Sciences,Pharmaceuticals
+Tim Go,HF Sinclair,Petroleum Refining
+William Nash,CarMax,Specialty Retailers: Other
+Michael Miebach,Mastercard,Financial Data Services
+Lawrence Coben,NRG Energy,Energy
+Sean Kerins,Arrow Electronics,Wholesalers: Electronics and Office Equipment
+Lorenzo Simonelli,Baker Hughes,Oil and Gas Equipment, Services
+Robert Jordan,Southwest Airlines,Airlines
+Peter Zaffino,American International Group,Insurance: Property and Casualty (Stock)
+Gary Dickerson,Applied Materials,Semiconductors and Other Electronic Components
+Vicki Hollub,Occidental Petroleum,Mining, Crude-Oil Production
+Michael Manley,AutoNation,Automotive Retailing, Services
+Christopher Womack,Southern,Utilities: Gas and Electric
+Christopher Swift,Hartford Financial Services Group,Insurance: Property and Casualty (Stock)
+Marc Rowan,Apollo Global Management,Securities
+Richard Wurster,Charles Schwab,Securities
+Christopher Kempczinski,McDonald's,Food Services
+Carlos Abrams-Rivera,Kraft Heinz,Food Consumer Products
+Lisa Su,Advanced Micro Devices,Semiconductors and Other Electronic Components
+William Rogers Jr.,Truist Financial,Commercial Banks
+Kathleen Quirk,Freeport-McMoRan,Metals
+Sanjay Mehrotra,Micron Technology,Semiconductors and Other Electronic Components
+Anthony Capuano,Marriott International,Hotels, Casinos, Resorts
+David Gitlin,Carrier Global,Building Materials, Glass
+John Ketchum,NextEra Energy,Utilities: Gas and Electric
+William Brown,3M,Miscellaneous
+John Doyle,Marsh & McLennan,Diversified Financials
+Patricia Poppe,PG&E,Utilities: Gas and Electric
+Jim Vena,Union Pacific,Railroads
+Brian Doubles,Synchrony Financial,Diversified Financials
+Jack Dorsey,Block,Financial Data Services
+Rainer Blair,Danaher,Scientific, Photographic and Control Equipment
+Philip Gallagher,Avnet,Wholesalers: Electronics and Office Equipment
+Glenn Fogel,Booking Holdings,Internet Services and Retailing
+Ezra Yacob,EOG Resources,Mining, Crude-Oil Production
+Earl Austin Jr.,Quanta Services,Engineering, Construction
+Michael Shepherd,Discover Financial Services,Commercial Banks
+Joseph Dominguez,Constellation Energy,Energy
+William Stengel II,Genuine Parts,Specialty Retailers: Other
+Christian Ulbrich,Jones Lang LaSalle,Real Estate
+Raymond Scott,Lear,Motor Vehicles & Parts
+Michael Rapino,Live Nation Entertainment,Entertainment
+Heidi Petz,Sherwin-Williams,Chemicals
+Calvin Butler Jr.,Exelon,Utilities: Gas and Electric
+Tony Spring,Macy's,General Merchandisers
+Jeffrey Miller,Halliburton,Oil and Gas Equipment, Services
+Kevin Lobo,Stryker,Medical Products and Equipment
+Tony Cheng,Reinsurance Group of America,Insurance: Life, Health (Stock)
+James Fish Jr.,Waste Management,Waste Management
+Ronald O'Hanley,State Street,Commercial Banks
+John Engel,WESCO International,Wholesalers: Electronics and Office Equipment
+Pierce Norton II,Oneok,Pipelines
+Shantanu Narayen,Adobe,Computer Software
+William Westrate,American Family Insurance Group,Insurance: Property and Casualty (Mutual)
+Christopher Kubasik,L3Harris Technologies,Aerospace and Defense
+James Conroy,Ross Stores,Specialty Retailers: Apparel
+Christine Leahy,CDW,Information Technology Services
+Saumya Sutaria,Tenet Healthcare,Health Care: Medical Facilities
+Robert Eddy,BJ's Wholesale Club,General Merchandisers
+Michael Lyons,Fiserv,Financial Data Services
+William Gifford Jr.,Altria Group,Tobacco
+Laurence Fink,BlackRock,Securities
+Thomas Polen,Becton Dickinson,Medical Products and Equipment
+Noel Wallace,Colgate-Palmolive,Household and Personal Products
+Michael Hsu,Kimberly-Clark,Household and Personal Products
+Daryl Kenningham,Group 1 Automotive,Automotive Retailing, Services
+Jennifer Parmentier,Parker-Hannifin,Industrial Machinery
+Jeffrey Harmening,General Mills,Food Consumer Products
+Ravi Kumar S,Cognizant Technology Solutions,Information Technology Services
+William Fehrman,American Electric Power,Utilities: Gas and Electric
+Peter Arduini,GE HealthCare Technologies,Medical Products and Equipment
+Maria Black,Automatic Data Processing,Financial Data Services
+Lourenco Goncalves,Cleveland-Cliffs,Metals
+Daniel Amos,Aflac,Insurance: Life, Health (Stock)
+Mark Stewart,Goodyear Tire & Rubber,Motor Vehicles & Parts
+Kevin Hogan,Corebridge Financial,Insurance: Life, Health (Stock)
+Thomas Palmer,Newmont,Mining, Crude-Oil Production
+Andrew Silvernail,International Paper,Packaging, Containers
+Philip Daniele III,AutoZone,Specialty Retailers: Other
+Ellen Cooper,Lincoln National,Insurance: Life, Health (Stock)
+Ryan Marshall,PulteGroup,Homebuilders
+James Cracchiolo,Ameriprise Financial,Diversified Financials
+Andrew Clyde,Murphy USA,Specialty Retailers: Other
+Jonas Prising,ManpowerGroup,Temporary Help
+David Bozeman,C.H. Robinson Worldwide,Mail, Package and Freight Delivery
+Timothy Knavish,PPG Industries,Chemicals
+Pedro Pizarro,Edison International,Utilities: Gas and Electric
+Mark Millett,Steel Dynamics,Metals
+Benjamin Tisch,Loews,Insurance: Property and Casualty (Stock)
+Lal Karsanbhai,Emerson Electric,Electronics, Electrical Equipment
+John Zillmer,Aramark,Food Services
+William Hornbuckle,MGM Resorts International,Hotels, Casinos, Resorts
+James Burke,Vistra,Energy
+David Hult,Asbury Automotive Group,Automotive Retailing, Services
+D.G. Macpherson,W.W. Grainger,Wholesalers: Diversified
+Eric Slifka,Global Partners,Wholesalers: Diversified
+Bob Pragada,Jacobs Solutions,Engineering, Construction
+Charles Magro,Corteva,Chemicals
+Rick Lanoha,Peter Kiewit Sons',Engineering, Construction
+Michael Mahoney,Boston Scientific,Medical Products and Equipment
+Brad Beckham,O'Reilly Automotive,Specialty Retailers: Other
+Thomas Bell,Leidos Holdings,Information Technology Services
+Thomas Gayner,Markel,Insurance: Property and Casualty (Stock)
+Marc Bitzer,Whirlpool,Household and Personal Products
+Andrew McMahon,Guardian Life Ins. Co. of America,Insurance: Life, Health (Mutual)
