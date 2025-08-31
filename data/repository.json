@@ -10353,121 +10353,121 @@
     {
       "name": "David Bozeman",
       "strategic_philosophy": {
-        "core_ideology": "TBD - David Bozeman core ideology",
-        "market_positioning": "TBD - market positioning",
-        "innovation_engine": "TBD - innovation engine",
-        "competitive_stance": "TBD - competitive stance",
-        "risk_profile": "TBD - risk profile"
+        "core_ideology": "Deliver smarter logistics through service, technology, and execution.",
+        "market_positioning": "Third-party logistics and brokerage; network density as moat",
+        "innovation_engine": "Pricing/route analytics; TMS; automation",
+        "competitive_stance": "Compete on service reliability, speed, and cost",
+        "risk_profile": "Cyclical risk managed via variable costs and portfolio mix"
       },
       "leadership": {
-        "hiring_philosophy": "TBD - hiring philosophy",
-        "cultural_architecture": "TBD - culture",
-        "motivation_incentives": "TBD - motivation",
-        "communication_style": "TBD - communication",
-        "talent_management": "TBD - talent"
+        "hiring_philosophy": "Hire high-judgment operators and sellers",
+        "cultural_architecture": "Customer-first, accountability, continuous improvement",
+        "motivation_incentives": "Performance pay; recognition; mobility",
+        "communication_style": "Direct operator updates; customer insights",
+        "talent_management": "Develop carrier/shipper account leaders"
       },
       "operational_cadence": {
-        "meeting_culture": "TBD - meetings",
-        "decision_making_process": "TBD - decisions",
-        "key_metrics": "TBD - metrics",
-        "focus_prioritization": "TBD - focus",
-        "accountability_framework": "TBD - accountability"
+        "meeting_culture": "Daily ops and margin reviews; pipeline",
+        "decision_making_process": "Data-informed with P&L owner",
+        "key_metrics": "Gross profit, on-time %, tender acceptance, cycle time",
+        "focus_prioritization": "Core modes, tech, productivity; prune low-ROI",
+        "accountability_framework": "Owner per book/region; postmortems"
       },
       "personal_ethos": {
-        "core_principles": "TBD - principles",
-        "work_ethic": "TBD - work ethic",
-        "learning_adaptability": "TBD - learning",
-        "resilience_mechanism": "TBD - resilience"
+        "core_principles": "Integrity, service, hustle",
+        "work_ethic": "High-tempo, field cadence",
+        "learning_adaptability": "Customer feedback; lane data; carrier input",
+        "resilience_mechanism": "Flex costs fast; protect service to core accounts"
       }
     },
     {
       "name": "Timothy Knavish",
       "strategic_philosophy": {
-        "core_ideology": "TBD - Timothy Knavish core ideology",
-        "market_positioning": "TBD - market positioning",
-        "innovation_engine": "TBD - innovation engine",
-        "competitive_stance": "TBD - competitive stance",
-        "risk_profile": "TBD - risk profile"
+        "core_ideology": "Protect and beautify the world with leading coatings and materials.",
+        "market_positioning": "Coatings and materials; technology, service, and channel as moats",
+        "innovation_engine": "R&D for durability/sustainability; adjacencies; targeted M&A",
+        "competitive_stance": "Compete on performance, speed, and global service",
+        "risk_profile": "Commodity risk management; ROI-driven bets"
       },
       "leadership": {
-        "hiring_philosophy": "TBD - hiring philosophy",
-        "cultural_architecture": "TBD - culture",
-        "motivation_incentives": "TBD - motivation",
-        "communication_style": "TBD - communication",
-        "talent_management": "TBD - talent"
+        "hiring_philosophy": "Hire technical sellers and operators",
+        "cultural_architecture": "Safety, customer focus, continuous improvement",
+        "motivation_incentives": "Performance pay; recognition; mobility",
+        "communication_style": "Direct, plant/market grounded comms",
+        "talent_management": "Build plant and commercial leadership"
       },
       "operational_cadence": {
-        "meeting_culture": "TBD - meetings",
-        "decision_making_process": "TBD - decisions",
-        "key_metrics": "TBD - metrics",
-        "focus_prioritization": "TBD - focus",
-        "accountability_framework": "TBD - accountability"
+        "meeting_culture": "S&OP; quality and safety cadences; price/mix reviews",
+        "decision_making_process": "Data-informed with owner accountability",
+        "key_metrics": "Price/mix, share, OEE, cash flow",
+        "focus_prioritization": "Focus on core segments; disciplined M&A",
+        "accountability_framework": "Scorecards; incident reviews; DRIs"
       },
       "personal_ethos": {
-        "core_principles": "TBD - principles",
-        "work_ethic": "TBD - work ethic",
-        "learning_adaptability": "TBD - learning",
-        "resilience_mechanism": "TBD - resilience"
+        "core_principles": "Integrity, customer success, excellence",
+        "work_ethic": "Consistent, field tempo",
+        "learning_adaptability": "Customer VOC; supplier benchmarks; lab tests",
+        "resilience_mechanism": "Execute price/mix; secure supply; protect quality"
       }
     },
     {
       "name": "Pedro Pizarro",
       "strategic_philosophy": {
-        "core_ideology": "TBD - Pedro Pizarro core ideology",
-        "market_positioning": "TBD - market positioning",
-        "innovation_engine": "TBD - innovation engine",
-        "competitive_stance": "TBD - competitive stance",
-        "risk_profile": "TBD - risk profile"
+        "core_ideology": "Deliver safe, reliable, and clean energy affordably for all customers.",
+        "market_positioning": "Regulated electric utility; reliability and grid modernization as moats",
+        "innovation_engine": "Grid hardening; wildfire mitigation; DER integration; storage",
+        "competitive_stance": "Compete on reliability, safety, and regulatory trust",
+        "risk_profile": "Risk managed via regulatory frameworks and resilience investments"
       },
       "leadership": {
-        "hiring_philosophy": "TBD - hiring philosophy",
-        "cultural_architecture": "TBD - culture",
-        "motivation_incentives": "TBD - motivation",
-        "communication_style": "TBD - communication",
-        "talent_management": "TBD - talent"
+        "hiring_philosophy": "Hire safety-first operators and planners",
+        "cultural_architecture": "Safety, accountability, community stewardship",
+        "motivation_incentives": "Recognition, stability, clear advancement",
+        "communication_style": "Transparent, data-backed public updates",
+        "talent_management": "Develop field leaders and planners; workforce pipelines"
       },
       "operational_cadence": {
-        "meeting_culture": "TBD - meetings",
-        "decision_making_process": "TBD - decisions",
-        "key_metrics": "TBD - metrics",
-        "focus_prioritization": "TBD - focus",
-        "accountability_framework": "TBD - accountability"
+        "meeting_culture": "Ops and safety cadences; regulator engagements",
+        "decision_making_process": "Data-informed with risk discipline; public accountability",
+        "key_metrics": "SAIDI/SAIFI, safety metrics, affordability",
+        "focus_prioritization": "Focus on core grid modernization; equity programs",
+        "accountability_framework": "Owner per program; compliance and incident reviews"
       },
       "personal_ethos": {
-        "core_principles": "TBD - principles",
-        "work_ethic": "TBD - work ethic",
-        "learning_adaptability": "TBD - learning",
-        "resilience_mechanism": "TBD - resilience"
+        "core_principles": "Safety, integrity, service",
+        "work_ethic": "Disciplined, public-facing cadence",
+        "learning_adaptability": "Community input, regulator feedback, outage lessons",
+        "resilience_mechanism": "Transparent mitigation; rebuild resiliently; aid customers"
       }
     },
     {
       "name": "Mark Millett",
       "strategic_philosophy": {
-        "core_ideology": "TBD - Mark Millett core ideology",
-        "market_positioning": "TBD - market positioning",
-        "innovation_engine": "TBD - innovation engine",
-        "competitive_stance": "TBD - competitive stance",
-        "risk_profile": "TBD - risk profile"
+        "core_ideology": "Build sustainable steel solutions with cost leadership and customer intimacy.",
+        "market_positioning": "Mini-mill steel and downstream products; scrap integration as moat",
+        "innovation_engine": "Operational excellence; recycling; targeted downstream M&A",
+        "competitive_stance": "Compete on cost, rapid delivery, and partnerships",
+        "risk_profile": "Cyclical risk managed via balance sheet and contracts"
       },
       "leadership": {
-        "hiring_philosophy": "TBD - hiring philosophy",
-        "cultural_architecture": "TBD - culture",
-        "motivation_incentives": "TBD - motivation",
-        "communication_style": "TBD - communication",
-        "talent_management": "TBD - talent"
+        "hiring_philosophy": "Hire safety-first, high-output operators",
+        "cultural_architecture": "Safety, accountability, continuous improvement",
+        "motivation_incentives": "Performance pay; pride in craft",
+        "communication_style": "Direct, pragmatic communications",
+        "talent_management": "Grow mill leaders and commercial talent"
       },
       "operational_cadence": {
-        "meeting_culture": "TBD - meetings",
-        "decision_making_process": "TBD - decisions",
-        "key_metrics": "TBD - metrics",
-        "focus_prioritization": "TBD - focus",
-        "accountability_framework": "TBD - accountability"
+        "meeting_culture": "Daily safety/ops cadence; cost councils",
+        "decision_making_process": "Data-informed with owner accountability",
+        "key_metrics": "Throughput, TRIR, cost/ton, cash flow",
+        "focus_prioritization": "Focus on core mills; downstream value-add",
+        "accountability_framework": "Owner per mill/line; incident reviews"
       },
       "personal_ethos": {
-        "core_principles": "TBD - principles",
-        "work_ethic": "TBD - work ethic",
-        "learning_adaptability": "TBD - learning",
-        "resilience_mechanism": "TBD - resilience"
+        "core_principles": "Safety, integrity, customer focus",
+        "work_ethic": "High-energy, on-site cadence",
+        "learning_adaptability": "Customer and supplier feedback; market data",
+        "resilience_mechanism": "Cut fast in downturns; protect capabilities"
       }
     },
     {
